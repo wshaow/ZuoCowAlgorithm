@@ -1,0 +1,3 @@
+﻿  sort_algorithm.cpp
+f:\algorithm\algorithm\algorithm\sort_algorithm.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+  algorithm.vcxproj -> F:\algorithm\algorithm\Debug\algorithm.exe
